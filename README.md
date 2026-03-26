@@ -22,7 +22,7 @@ The website is designed with a clean UI, responsive layout, and structured navig
 - Service-based pages:
   - G-Tech
   - G-Studios
-  - Fashion
+  - Portfolio
   - Grooming
 - Contact page
 - Smooth navigation and user experience
